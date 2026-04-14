@@ -118,7 +118,7 @@ For collaboration or research discussions:
 
 ---
 
-## 🧭 Founder
+## Founder
 
 Avni Sharma  
 Founder, StreetSafe India  
