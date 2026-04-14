@@ -26,7 +26,7 @@ This creates a governance gap between **law, policy, and implementation**.
 
 ---
 
-## 📜 Legal Framework
+## Legal Framework
 
 StreetSafe India examines this issue through three intersecting systems:
 
@@ -111,7 +111,7 @@ We are currently seeking engagement with:
 
 ---
 
-## 📩Contact
+## Contact
 
 For collaboration or research discussions:
 **[avnisharma33117@gmail.com]**
